@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://wakatime.com/share/@ennerperez/56facabe-155c-4df7-ba73-4a8d5d3cd1ba.png)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ennerperez?style=social)
 
 <!--
 **ennerperez/ennerperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
